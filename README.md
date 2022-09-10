@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vitor-joao-ti
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on simples API's
+- 💞️ I’m looking to collaborate on simple API's
 - 📫 How to reach me vitor.joao.ti@gmail.com
 
 <!---
